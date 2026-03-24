@@ -45,6 +45,7 @@
 * **Goto definition alias** (`antfu.goto-definition-alias`)
 * **Pencil** (`highagency.pencil`)
 * **opencode** (`sst.opencode`)
+* **Excalidraw** (`pomdtr`)
 
 ## 🎨 Temas e Estética
 * **Gruvbox Theme** (`jdinhlife.gruvbox-theme-updated`)
